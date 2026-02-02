@@ -21,7 +21,8 @@ xx, yy = np.meshgrid(np.linspace(x_min, x_max, 200),
                      np.linspace(y_min, y_max, 200)
 )
 
-# Predict class probabilities on the grid
+# Predict class probabilities on the grid 
+## The code shown in the lecture is wrong, the predicted y shape is incorrect
 Z = model.predict_proba(np.c_[xx.ravel(), yy.ravel()])[:, 1] # Probability of the positive class
 Z = Z.reshape(xx.shape) # reshape to match grid shape 200x200
 
