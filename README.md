@@ -6,5 +6,5 @@ This repository is designed for student lab using materials for courses Machine 
 - Lab2: Logistic regression, optimization of Gradient Descent (GD), Stochastic Gradient Descent (SGD), Adaptive Moment estimation (Adam), and Scipy Optimize - Sequential Least Squares Programming.
 
 ## Dataset
-- lab1: random generating data set.\
+- lab1: generated random dataset.
 - lab2: [annual_returns](Lab2/annual_returns.csv)
