@@ -7,4 +7,4 @@ This repository is designed for student lab using materials for courses Machine 
 
 ## Dataset
 - lab1: random generating data set.\
-- lab2: [annual_returns](Lab1/annual_returns.csv)
+- lab2: [annual_returns](Lab2/annual_returns.csv)
