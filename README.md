@@ -9,4 +9,4 @@ This repository is designed for student lab using materials for courses Machine 
 ## Dataset
 - lab1: Generated random dataset.
 - lab2: [annual_returns](Lab2/annual_returns.csv)
-- lab3: [German credit data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) from [ucimlrepo package](https://archive.ics.uci.edu/datasets) by specifying the identifier 144.
+- lab3: [German credit data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) from [UCIrvine Machine Learning Repository](https://archive.ics.uci.edu/datasets) fetched by [ucimlrepo package](https://github.com/uci-ml-repo/ucimlrepo) by specifying the identifier 144.
