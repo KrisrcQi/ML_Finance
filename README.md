@@ -8,3 +8,4 @@ This repository is designed for student lab using materials for courses Machine 
 ## Dataset
 - lab1: Generated random dataset.
 - lab2: [annual_returns](Lab2/annual_returns.csv)
+- lab3: German credit data (ucimlrepo package by specifying the identifier 144)
