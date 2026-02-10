@@ -1,0 +1,22 @@
+          name     role      type             demographic  \
+0    Attribute1  Feature  Categorical             NaN   
+1    Attribute2  Feature      Integer             NaN   
+2    Attribute3  Feature  Categorical             NaN   
+3    Attribute4  Feature  Categorical             NaN   
+4    Attribute5  Feature      Integer             NaN   
+5    Attribute6  Feature  Categorical             NaN   
+6    Attribute7  Feature  Categorical           Other   
+7    Attribute8  Feature      Integer             NaN   
+8    Attribute9  Feature  Categorical  Marital Status   
+9   Attribute10  Feature  Categorical             NaN   
+10  Attribute11  Feature      Integer             NaN   
+11  Attribute12  Feature  Categorical             NaN   
+12  Attribute13  Feature      Integer             Age   
+13  Attribute14  Feature  Categorical             NaN   
+14  Attribute15  Feature  Categorical           Other   
+15  Attribute16  Feature      Integer             NaN   
+16  Attribute17  Feature  Categorical      Occupation   
+17  Attribute18  Feature      Integer             NaN   
+18  Attribute19  Feature       Binary             NaN   
+19  Attribute20  Feature       Binary           Other   
+20        class   Target       Binary             NaN  
